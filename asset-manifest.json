@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.ca0950d6.css",
-    "main.js": "/portfolio-website/static/js/main.ebb09981.js",
+    "main.css": "/portfolio-website/static/css/main.092cc83f.css",
+    "main.js": "/portfolio-website/static/js/main.d3e4e85b.js",
     "static/js/453.aac68abc.chunk.js": "/portfolio-website/static/js/453.aac68abc.chunk.js",
     "static/media/footnotes2.png": "/portfolio-website/static/media/footnotes2.45d3f6b707734bc04c5f.png",
     "static/media/background.jpg": "/portfolio-website/static/media/background.328db237b313a75d667d.jpg",
@@ -11,16 +11,16 @@
     "static/media/profile_1.jpg": "/portfolio-website/static/media/profile_1.300e87f86ae9f517fe03.jpg",
     "static/media/speed_img1.png": "/portfolio-website/static/media/speed_img1.99cef4dd5213757d78bb.png",
     "static/media/programming.png": "/portfolio-website/static/media/programming.f7b7006d9e486aef0936.png",
-    "static/media/logo11.png": "/portfolio-website/static/media/logo11.35df1a56580069987be7.png",
+    "static/media/logo11.png": "/portfolio-website/static/media/logo11.eb9fa178ecd1d492bf00.png",
     "static/media/msu.svg": "/portfolio-website/static/media/msu.5666c24a7a321d2743323f13c232389f.svg",
     "static/media/github.svg": "/portfolio-website/static/media/github.255db585f8a0eb28a1e4deb91bde207d.svg",
     "index.html": "/portfolio-website/index.html",
-    "main.ca0950d6.css.map": "/portfolio-website/static/css/main.ca0950d6.css.map",
-    "main.ebb09981.js.map": "/portfolio-website/static/js/main.ebb09981.js.map",
+    "main.092cc83f.css.map": "/portfolio-website/static/css/main.092cc83f.css.map",
+    "main.d3e4e85b.js.map": "/portfolio-website/static/js/main.d3e4e85b.js.map",
     "453.aac68abc.chunk.js.map": "/portfolio-website/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca0950d6.css",
-    "static/js/main.ebb09981.js"
+    "static/css/main.092cc83f.css",
+    "static/js/main.d3e4e85b.js"
   ]
 }
