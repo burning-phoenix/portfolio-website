@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-website/static/css/main.32c577ad.css",
-    "main.js": "/portfolio-website/static/js/main.8bd83335.js",
+    "main.css": "/portfolio-website/static/css/main.63f179ed.css",
+    "main.js": "/portfolio-website/static/js/main.40537ae9.js",
     "static/js/453.aac68abc.chunk.js": "/portfolio-website/static/js/453.aac68abc.chunk.js",
     "static/media/footnotes2.png": "/portfolio-website/static/media/footnotes2.45d3f6b707734bc04c5f.png",
     "static/media/background.jpg": "/portfolio-website/static/media/background.328db237b313a75d667d.jpg",
@@ -13,15 +13,16 @@
     "static/media/programming.png": "/portfolio-website/static/media/programming.f7b7006d9e486aef0936.png",
     "static/media/logo11.png": "/portfolio-website/static/media/logo11.eb9fa178ecd1d492bf00.png",
     "static/media/github.png": "/portfolio-website/static/media/github.1e1edb7d7d19576717c9.png",
+    "static/media/wordle.png": "/portfolio-website/static/media/wordle.ff0fd10c0fb44f27a76c.png",
     "static/media/linkedin.png": "/portfolio-website/static/media/linkedin.4bf55fc95445bb249fd5.png",
     "static/media/msu.svg": "/portfolio-website/static/media/msu.5666c24a7a321d2743323f13c232389f.svg",
     "index.html": "/portfolio-website/index.html",
-    "main.32c577ad.css.map": "/portfolio-website/static/css/main.32c577ad.css.map",
-    "main.8bd83335.js.map": "/portfolio-website/static/js/main.8bd83335.js.map",
+    "main.63f179ed.css.map": "/portfolio-website/static/css/main.63f179ed.css.map",
+    "main.40537ae9.js.map": "/portfolio-website/static/js/main.40537ae9.js.map",
     "453.aac68abc.chunk.js.map": "/portfolio-website/static/js/453.aac68abc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32c577ad.css",
-    "static/js/main.8bd83335.js"
+    "static/css/main.63f179ed.css",
+    "static/js/main.40537ae9.js"
   ]
 }
